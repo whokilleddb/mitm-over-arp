@@ -7,6 +7,10 @@
 ```
 /spoofer.sh -o 192.168.0.108 -t 192.168.0.1 -i wlan0   
 ```
+or
+```
+sudo ./arp_spoofing.py -iv 192.168.0.108 -si 192.168.0.1 -v
+```
 
 *__Contributing Guidelines__*
 
